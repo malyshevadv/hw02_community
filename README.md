@@ -1,4 +1,4 @@
-# Бекенд для социальной сети блогеров (backend_community_homeworkб часть yatube_project)
+# Бекенд для социальной сети блогеров (backend_community_homework, часть yatube_project)
 
 [![CI](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml)
 
